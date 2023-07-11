@@ -1,6 +1,10 @@
 # How to install React Native CLI on window 10
  to install React Native CLI on your window 10 Machine follow these step
 
+| Requirement : Nodejs , NPM latest |
+|----|
+
+
 ## 1 Step:
 Download SDK from this url   
 - New : https://drive.google.com/file/d/1ACBbIqqf1ulrXauUyvFScqPvv-wyEy8v/view  (Recomended )
@@ -63,3 +67,8 @@ C:\Users\hp\AppData\Local\Android\Sdk
 
 
 follow above step to install android sdk
+
+
+---------------------------------------------------------------------------------
+** Now Install JDK (Open JDK 8) **
+visit : React native Website to setup enviroment variable 
