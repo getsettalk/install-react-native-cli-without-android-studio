@@ -27,4 +27,11 @@ C drive -> Users ---> your user name folder (unknown)
   ## 4 step: Enable to show Hidden Files   
     at your path shown in images (c drive -> users -> unknown  <-----  Path) , Click top nav ** view ** and enable show hidden files  
    <img src= "https://github.com/getsettalk/install-react-native-cli-with-android-studio/assets/49394996/b71aed43-bdfc-4f25-b88f-49aa742a95c5" width="300" />
-  
+
+  ## Now Go like this Path:
+  ```
+C:\Users\hp\AppData\Local
+  ```
+here (hp) is my username of window pc
+  ![image](https://github.com/getsettalk/install-react-native-cli-with-android-studio/assets/49394996/bd8d1948-485c-4abd-82cc-9b6422c80654)
+
