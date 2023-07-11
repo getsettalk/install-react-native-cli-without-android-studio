@@ -32,6 +32,34 @@ C drive -> Users ---> your user name folder (unknown)
   ```
 C:\Users\hp\AppData\Local
   ```
-here (hp) is my username of window pc
+here (hp) is my username of window pc  
+ You have to create here  one folder if not exists ---> Folder Name: Android  
   ![image](https://github.com/getsettalk/install-react-native-cli-with-android-studio/assets/49394996/bd8d1948-485c-4abd-82cc-9b6422c80654)
 
+
+## 5 step : Make a folder (Name: Android and Paste )
+Make folder name Android
+```
+C:\Users\hp\AppData\Local\Android
+```
+ 
+   ![image](https://github.com/getsettalk/install-react-native-cli-with-android-studio/assets/49394996/f1ec81f5-33f1-4f1f-8878-ae901114761c)
+
+ ![image](https://github.com/getsettalk/install-react-native-cli-with-android-studio/assets/49394996/27802a23-1c3b-4195-8e5f-9177728a79ad)
+
+
+## 6 step 
+Paste that copied SDK folder here
+
+ ![image](https://github.com/getsettalk/install-react-native-cli-with-android-studio/assets/49394996/20ac9bbd-4863-48cd-820b-4e4d8f0a1225)
+
+
+# Final Path and View: 
+
+```
+C:\Users\hp\AppData\Local\Android\Sdk
+```
+![image](https://github.com/getsettalk/install-react-native-cli-with-android-studio/assets/49394996/e4cb6939-3cac-4e0b-a211-647a6f806947)
+
+
+follow above step to install android sdk
